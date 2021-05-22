@@ -4,4 +4,6 @@
 
 ## Purpose
 
-## How tpo contribute
+## Deployment
+
+## How to contribute
